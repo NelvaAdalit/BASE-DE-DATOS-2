@@ -226,7 +226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9bQFVcNGs7qYjyt5JiF5" name="Page-3">
-    <mxGraphModel dx="2717" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,6 +437,21 @@
         </mxCell>
         <mxCell id="_WU9JcezZQtZepqKiJlH-105" value="1.N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-630" y="775" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WU9JcezZQtZepqKiJlH-106" value="DIETA(&lt;u&gt;NOMBREP&lt;/u&gt;,FECREACION,NCREADOR,IDP)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-775" y="880" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_WU9JcezZQtZepqKiJlH-107" value="....." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="885" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WU9JcezZQtZepqKiJlH-108" value="LARGADURACION(&lt;u&gt;NOMBREP&lt;/u&gt;, DIAS)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-765" y="938" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WU9JcezZQtZepqKiJlH-111" value="CORTADURACION(&lt;u&gt;NOMBREP&lt;/u&gt;, HORAS)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-765" y="998" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WU9JcezZQtZepqKiJlH-112" value="PACIENTE&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="1070" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
